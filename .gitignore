@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Learn.vcxproj.user
+/Learn.vcxproj.filters
+/Learn.vcxproj
+/Learn.sln
+/.vs/Learn/v17
+/.vs/Learn/FileContentIndex
+/.vs/Learn
